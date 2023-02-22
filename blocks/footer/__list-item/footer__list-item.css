@@ -1,5 +1,6 @@
 .footer__list-item {
   margin-right: 18px;
+	padding: 0;
 }
 
 .footer__list-item:last-of-type {
