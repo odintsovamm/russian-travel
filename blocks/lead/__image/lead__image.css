@@ -1,7 +1,4 @@
 .lead__image {
   width: 100%;
-  min-height: 615px;
-	object-fit: cover;
-	overflow: hidden;
 }
 
