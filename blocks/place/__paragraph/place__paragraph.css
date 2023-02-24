@@ -12,7 +12,7 @@
 }
 
 .place__paragraph p:last-child{
-    margin: 0;
+    margin-bottom: 0;
 }
 
 @media screen and (max-width: 1023px) {
