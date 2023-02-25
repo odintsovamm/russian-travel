@@ -13,8 +13,4 @@
     }
 }
 
-@media screen and (max-width: 767px) {
-    .intro__subtitle {
-        min-width: 288px;
-    }
-}
+

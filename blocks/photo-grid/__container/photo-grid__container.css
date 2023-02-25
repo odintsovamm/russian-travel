@@ -1,6 +1,9 @@
 .photo-grid__container {
+    margin:0 0 92px 0;
+    padding: 0;
+    font-size: 0;
+    list-style: none;
     display: grid;
-    margin-bottom: 92px;
     grid-template-columns: repeat(auto-fit,minmax(284px, 1fr));
     gap: 16px;
 }

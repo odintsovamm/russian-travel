@@ -1,5 +1,17 @@
 .cover {
-    width: 100%;
+    max-width: calc(100% - 2*48px);
     margin: 0 auto;
     box-sizing: border-box;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover {
+        max-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .cover {
+        width: 100%;
+    }
 }
