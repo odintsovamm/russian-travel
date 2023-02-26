@@ -1,23 +1,22 @@
 .lead__container {
-    max-width: 984px;
-    margin: 0 auto 90px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  max-width: 984px;
+  margin: 0 auto 90px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 @media screen and (max-width: 1279px) {
-    .lead__container {
-        max-width: 928px;
-        margin-bottom: 88px;
-    }
+  .lead__container {
+    max-width: 928px;
+    margin-bottom: 88px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .lead__container {
-        margin-bottom: 64px;
-    }
+  .lead__container {
+    margin-bottom: 64px;
+  }
 }
-
